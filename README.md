@@ -50,13 +50,13 @@ Spongiosis : The main symptom of hyperkeratosis is thickened skin that feels rou
 All remaining columns are few more features to understand the condition of the skin .
 
 # Challenges faced 
->> All the features aare related to medical field which are very difficult to understand even after spending time on domain 
+ All the features aare related to medical field which are very difficult to understand even after spending time on domain 
    analysis .
 
->> And they didn't mentioned the exact disease name , they just mentioned class 1 to 6 . so , it's a bit difficult to relate 
+ And they didn't mentioned the exact disease name , they just mentioned class 1 to 6 . so , it's a bit difficult to relate 
    the respective fature with type of skin disease .
 
->> Other than that didn't faced any issue with data and data handling .
+ Other than that didn't faced any issue with data and data handling .
 # Conclusion :
 We did prediction using 4 machine learning models namely  Logistic Regression, KNN, Support Vector Machine, Decision Tree.
 
